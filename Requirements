@@ -1,0 +1,23 @@
+Who is this for?
+  Event attendees trying to purchase tickets day of event from a Ticket Scalper 
+Why create this?
+  To limit ticket purchasers from being scammed into buying a ticket that is not valid and will not provide entry to the event
+What are we creating?
+  A Mobile application that uses your phone camera to scan a barcode on an electronic ticket from a Ticket Scalper to ensure the ticket is legitimate before purchasing the ticket
+How will we accomplish this?
+  Utilizing the Ticketmaster API (probably the Inventory Status API) to make calls to TMs database to verify the barcode of the ticket, basically need the phone scanner to do exactly what the ticket scanner at the door will do without registering the ticket as "Already entered the event"
+Side notes to consider:
+  Need to consider the following platforms as well: Ticketmaster, Ticketweb, Universe, FrontGate, Ticketmaster Resale (TMR)...
+    Are there anymore ticketmaster affiliations that we need to consider?
+    Are there any other providers of event tickets that should be included in the architecture???
+    
+Workflow
+  Open the scalpR App to main screen
+    Main screen provides options:
+      Do you want to scan a ticket?
+      Are you interested in a particular event?
+      Do you want to transfer a ticket you purchased to a friend?
+      
+      
+      
+      
