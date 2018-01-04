@@ -1,0 +1,13 @@
+Paper verification story board
+
+Ticket Buyer approaches Ticket Seller though any medium: Craigslist, Random ticket websites, etc
+Ticket Buyer(TB) contacts Ticket Seller(TS) and agree to meet
+Upon meeting Ticket Buyer can inspect the ticket 
+Next they can open the scalpR app and the first screen after loading screen is permission to access camera
+Once accepeted TB can hold paper ticket infront of their phone on their camera and the camera barcode reader will automatically process the barcode
+The results coming back are to validate if this ticket will process as valid when a door scanner at the venue scans it
+TB gets a Green "Legit" confirmation OR a Red "Not Legit" confirmation 
+TB can choose how to proceed with the TS at this point
+The app has served its purpose 
+
+Digital verification story board
