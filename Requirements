@@ -19,5 +19,10 @@ Workflow
       Do you want to transfer a ticket you purchased to a friend?
       
       
-      
+      SOMETHING FOR TM
+      if we can ping the db and cross reference a ticket number we could 
+      leave a flag on that ticket number so when ticket master goes to pull 
+      their reports they could have a column of data that tells which tickets had a ping from our app.  
+      this would tell them how many tickets were resold and which tickets they were.  
+      They could choose to do what they want with the information...
       
